@@ -1,0 +1,6 @@
+#!/bin/bash
+echo file name
+read var
+cp 0-alias "$var"
+echo "done"
+
